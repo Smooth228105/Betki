@@ -1,2 +1,2 @@
 const name = "Alice"
-console.log('Привет, + name + !')
+console.log('Привет,' + name + "!")
